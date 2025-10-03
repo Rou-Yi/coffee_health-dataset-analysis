@@ -48,4 +48,4 @@ The project aims to:
 
 | Health Model Feature Importance | Stress Model Feature Importance |
 | ------------ | ------------ |
-| <img width="865" height="379" alt="image" src="https://github.com/user-attachments/assets/54940cc2-ee3d-407b-8457-28f67500c405" /> | <img width="856" height="379" alt="image" src="https://github.com/user-attachments/assets/9a653db7-7975-4893-96e7-98f4208dc4d1" /> |
+| <img width="865" height="379" alt="image" src="https://github.com/user-attachments/assets/28139e67-392f-43c8-9cab-51e07caaa45e" /> | <img width="856" height="379" alt="image" src="https://github.com/user-attachments/assets/fb0b616c-f073-4d04-b9a7-e14aa54a3619" /> |
